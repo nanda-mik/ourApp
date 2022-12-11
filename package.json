@@ -22,7 +22,7 @@
     "dompurify": "^2.0.7",
     "dotenv": "^8.2.0",
     "ejs": "^2.6.1",
-    "express": "^4.16.4",
+    "express": "^4.17.3",
     "express-session": "^1.17.0",
     "marked": "^0.8.0",
     "md5": "^2.2.1",
